@@ -1,5 +1,5 @@
 
-local _name = load("return '\\114\\103\\95\\100\\105\\115\\99\\111\\114\\100\\108\\111\\103\\115'")()
+local _name = "rg_discordlogs"
 
 if GetCurrentResourceName() ~= _name then return end
 
